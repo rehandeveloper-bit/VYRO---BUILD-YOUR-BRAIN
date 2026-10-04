@@ -1,0 +1,6 @@
+{
+  "name": "VYRO",
+  "description": "Daily AI-generated challenges, 30-sec drawing, song guessing, streaks, friend duels, and built-in celebration chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
